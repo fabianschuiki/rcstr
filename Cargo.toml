@@ -1,0 +1,7 @@
+[package]
+name = "rcstr"
+version = "0.1.0"
+authors = ["Fabian Schuiki <fschuiki@iis.ee.thz.ch>"]
+repository = "https://github.com/fabianschuiki/rcstr.git"
+description = "A reference counted string that acts like a regular str slice, hiding the fact that it is wrapped in Rc"
+license = "MIT"
